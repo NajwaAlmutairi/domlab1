@@ -1,0 +1,10 @@
+.para{
+    color:white;
+    background-color: purple;
+}
+
+.tableClass{
+    border:"1px solid black";
+    color: green;
+    font-size: medium;
+}
