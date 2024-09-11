@@ -4,7 +4,9 @@
 }
 
 .tableClass{
-    border:"1px solid black";
     color: green;
     font-size: medium;
 }
+table, th, td {
+    border: 1px solid;
+  }

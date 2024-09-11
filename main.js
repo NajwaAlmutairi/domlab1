@@ -26,11 +26,9 @@ for (i in items) {
     elemUl.appendChild(addingLi);
     addingLi.style.color = 'green';
     addingLi.style.border = '1px solid black';
-    addingLi.style.marginRight = '20px';
-    addingLi.style.padding = '5px';
-
 }
 elemUl.style.display = "flex";
+elemUl.style.justifyContent = "space-around";
 
 // Q5
 
